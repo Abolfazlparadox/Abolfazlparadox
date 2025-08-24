@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Paradox 👋
 
-<!--
-**Abolfazlparadox/Abolfazlparadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineer and web developer, currently a master's student passionate about technology, problem-solving, and continuous learning. My nickname is **Paradox**—I love to think and act outside the box!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Languages & Frameworks:** Python, Django, Django Rest Framework (DRF), C#
+- 🛍️ **Project:** [the azad_shop](#)
+- 🎓 **Education:** Master's student in Computer Engineering
+- 🧠 **Interests:** 
+  - Solving algorithms and mathematical problems
+  - Creating applications and working with data
+  - Exploring computer engineering topics
+- 🎮 **Hobbies:** Gaming, coding for fun, and learning new programming concepts
+
+## Connect with Me
+
+- 📧 Email: abolfazlmohammadshahi78@gmail.com
+- 📸 [Instagram](https://www.instagram.com/amsh7788/)
+- 🐦 [X (Twitter)](https://x.com/AbolfazlM25528)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abolfazl-mohammadshahi-12b87b324/)
+
+---
+
+> "I love to solve algorithms, create applications, play with data, and solve mathematical problems. My hobbies include gaming, coding for myself, and learning about programming and computer engineering."
+
+---
