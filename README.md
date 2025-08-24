@@ -16,7 +16,7 @@ I'm a Software Engineer and web developer, currently a master's student passiona
 ## Connect with Me
 
 - 📧 Email: abolfazlmohammadshahi78@gmail.com
-- 📸 [Instagram](https://www.instagram.com/amsh7788/)
+- 📸 [Instagram]([https://www.instagram.com/amsh7788/](https://www.instagram.com/abolfazlparadox78/))
 - 🐦 [X (Twitter)](https://x.com/AbolfazlM25528)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abolfazl-mohammadshahi-12b87b324/)
 
